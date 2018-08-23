@@ -1,0 +1,28 @@
+---
+title: "Global Mental Health"
+output:
+  html_document:
+    toc_float: false
+---
+
+
+```{r, include=FALSE}
+  library(knitr)
+  library(kableExtra)
+  library(magrittr)
+  library(tidyverse)
+```
+
+![](img/cover.jpg)
+
+<center>
+<font size="2">
+<p id='pnospace'>
+"A woman poses in front of a graffiti representing the sun on the occasion of the observance of the World Mental Health Day."</p>
+<p id='pnospace'>
+Photo credit: [un_photo on Flickr](https://flic.kr/p/SJGjxS). UN Photo/Martine Perret, 2008, Dili, Timor-Leste.
+</p>
+</p>
+</font>
+</center>
+

@@ -1,0 +1,278 @@
+---
+title: "GLOBAL MENTAL HEALTH"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+#bibliography: 'data and replication files/reports/orphan.bib'
+#csl: vancouver.csl
+---
+
+```{r, include=FALSE}
+  library(magrittr)
+  library(kableExtra)
+  library(knitr)
+```
+
+
+<h2> Duke University, Fall 2018 </h2>
+
+```{r, echo=FALSE}
+  details <- data.frame(Date=c("Instructor",
+                                "Course Number",
+                                "Day/Time",
+                                "Location",
+                                "Office Hours"),
+                         Topic=c("[Eric Green](http://ericpgreen.com)",
+                                 "GLHLTH 660 / PSY 611 / RIGHTS 660 / CULANTH 611",
+                                 "Tuesdays, 3:05-5:35pm",
+                                 "Trent Hall 142",
+                                 "By appointment"))
+  kable(details) %>%
+    kable_styling(bootstrap_options = c("striped", "hover", 
+                                        "condensed", "responsive"),
+                  font_size=15) %>%
+    row_spec(0, bold = TRUE, color = "white", background = "#003366")
+```
+
+
+<br>
+
+
+In this course, we will focus on the global burden of mental health needs and the role of mental health research and clinical practice in global health initiatives. Across course topics, we will explore principles of psychology related to key issues in global mental health and cultural issues related to mental health treatments and outcomes. Our readings and discussions emphasize peer-reviewed literature comprised of both the core literature that pushed this field forward, as well as the most recent research. We will also learn about the personal experiences of individuals affected by mental health needs across vastly different contexts. A primary goal is for us to think critically about complex issues related to mental health care in diverse international settings. You will be asked to reflect on, discuss, and debate the challenging issues surrounding efforts to expand evidence-based mental health services globally. 
+
+# FORMAT
+
+Each class session will include discussion, activities, and team work on a shared assignment. We will begin each session with a silent 5-minute writing exercise based on the assigned materials to help you prepare to contribute.
+
+# REQUIREMENTS AND EVALUATION
+
+You will complete two team assignments this semester (50% each). Each project will last for half of the semester, and you will switch teams at the mid-point. We will dedicate some time during each class for team-based work to minimize the amount of time teams need to meet in-person outside of class.
+
+Your grade for each assignment will consist of the following:
+
+1. A team score that reflects my assessment of the overall quality of the final product [50%]
+2. An individual score that reflects my assessment of your preparation for class and team work (this includes showing up for class) [20%]
+3. An individual score from your teammates that reflects the team's assessment of your contributions [30%]
+
+Ranges for letter grades will be set at the end of the semester, and grades may be curved. Cumulative scores of at least 90, 80, and 70 will be guaranteed at least an A-, B-, and C-, respectively. There is no final exam, but you must be present for both presentations to receive full credit.
+
+# <a name="ds" style="color:#003366">SCHEDULE OVERVIEW</a>
+
+```{r, echo=FALSE}
+  schedule <- data.frame(Date=c("Aug 28",
+                                "Sept 4",
+                                "Sept 11",
+                                "Sept 18",
+                                "Sept 25",
+                                "Oct 2",
+                                "Oct 9",
+                                "Oct 16",
+                                "Oct 23",
+                                "Oct 30",
+                                "Nov 6",
+                                "Nov 13",
+                                "Nov 20",
+                                "Nov 27"),
+                         Topic=c("Welcome",
+                                 "[1. State of the field](#class1)",
+                                 "[2. Psychiatric categories and diagnoses](#class2)",
+                                 "[3. Burden of disease](#class3)",
+                                 "[4. Culture, context, and social determinants of mental illness](#class4)",
+                                 "[5. Measurement](#class5)",
+                                 "Fall Break",
+                                 "Midterm presentations",
+                                 "[6. Intervention approaches and cultural adaptation](#class6)",
+                                 "[7. Depression and suicide](#class7)",
+                                 "[8. Child and adolescent mental health](#class8)",
+                                 "[9. Mental health in humanitarian settings](#class9)",
+                                 "[10. Grand challenges and innovation](#class10)",
+                                 "Final presentations"))
+  kable(schedule) %>%
+    kable_styling(bootstrap_options = c("striped", "hover", 
+                                        "condensed", "responsive"),
+                  font_size=15) %>%
+    row_spec(0, bold = TRUE, color = "white", background = "#003366") %>%
+    row_spec(7, bold = TRUE, color = "white", background = "#A1B70D") %>%
+    row_spec(8, bold = TRUE, color = "white", background = "#F09905") %>%
+    row_spec(14, bold = TRUE, color = "white", background = "#F09905")
+    
+```
+
+<br>
+
+# DETAILED SCHEDULE
+
+
+## <a name="class1" style="color:#F09905">1. State of the field</a>
+
+<!--
+*In this session*
+-->
+
+* Kleinman, A. (2009). The art of medicine. Global mental health: a failure of humanity. [*The Lancet, 374*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61510-5/fulltext?code=lancet-site), 603-4.
+* Becker, A.E., & Kleinman, A. (2013). Mental health and the global agenda. [*New England Journal of Medicine, 369(1)*](https://www.ncbi.nlm.nih.gov/pubmed/23822778), 66-73.
+* Cohen, A., Patel, V., & Minas, H. (2013). A brief history of global mental health. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 1: pp. 3-26).
+* Vikram Patel TED Talk: http://www.ted.com/speakers/vikram_patel.html  
+
+<br>
+[[return to schedule overview](#ds)]
+<br>
+
+***
+
+## <a name="class2" style="color:#F09905">2. Psychiatric categories and diagnoses</a>
+
+<!--
+*In this session*
+-->
+
+* Gureje, O. & Stein, D.J. (2013). Disorders, diagnosis, and classification. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 2: pp. 27-40).
+* Jacob, K. S., & Patel, V. (2014). Classification of mental disorders: a global mental health perspective. [*The Lancet, 383(9926)*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)62382-X/fulltext?code=lancet-site), 1433-1435.
+* Watters, E. (2010, January 8). The Americanization of Mental Illness. [*New York Times*](https://www.nytimes.com/2010/01/10/magazine/10psyche-t.html)
+* Friedman, J.R. (2015). Who belongs in a psychiatric hospital? Post-socialist Romania in the age of globalizing psychiatry. In Kohrt & Mendenhall (Eds.) *Global Mental Health: Anthropological Perspectives* (Ch. 11).
+
+<br>
+[[return to schedule overview](#ds)]
+<br>
+
+***
+
+## <a name="class3" style="color:#F09905">3. Burden of disease</a>
+
+<!--
+*In this session*
+-->
+
+* Prince, M., et al. (2007). No health without mental health. [*The Lancet, 370*](https://www.sciencedirect.com/science/article/pii/S0140673607612380), 859-77.
+* Vigo, D., Thornicroft, G., & Atun, R. (2016). Estimating the true global burden of mental illness. [*The Lancet Psychiatry, 3(2)*](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(15)00505-2/fulltext), 171-178.
+
+
+<br>
+[[return to schedule overview](#ds)]
+<br>
+
+***
+
+## <a name="class4" style="color:#F09905">4. Culture, context, and social determinants of mental illness</a>
+
+<!--
+*In this session*
+-->
+
+* Kirmayer, L.J. & Swartz, L. (2013). Culture and global mental health. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 3: pp. 41-62).
+* Blanc, J., Rahill, G. J., Laconi, S., & Mouchenik, Y. (2016). Religious beliefs, PTSD, depression and resilience in survivors of the 2010 Haiti earthquake. [*Journal of Affective Disorders, 190*](https://www.ncbi.nlm.nih.gov/pubmed/26600411), 697-703.
+* Lund, C., Brooke-Sumner, C., Baingana, F., Baron, E. C., Breuer, E., Chandra, P., ... & Medina-Mora, M. E. (2018). Social determinants of mental disorders and the Sustainable Development Goals: a systematic review of reviews. [*The Lancet Psychiatry, 5(4)*](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(18)30060-9/abstract), 357-369.
+* Wutich, A., Brewis, A., Rosales Chavez, J.B., & Jaiswal, C.L. (2015). Water, worry, and Dona Paloma: Why water security is fundamental to global mental health. In Kohrt & Mendenhall (Eds.) *Global Mental Health: Anthropological Perspectives* (Ch. 3).
+
+
+<br>
+[[return to schedule overview](#ds)]
+<br>
+
+***
+
+## <a name="class5" style="color:#F09905">5. Measurement</a>
+
+<!--
+*In this session*
+-->
+
+* Green, E. P., Tuli, H., Kwobah, E., Menya, D., Chesire, I., & Schmidt, C. (2018). Developing and validating a perinatal depression screening tool in Kenya blending Western criteria with local idioms: A mixed methods study. [*Journal of Affective Disorders, 228*](https://www.ncbi.nlm.nih.gov/pubmed/29227955), 49-59.
+* Bolton, P. (2001). Cross-cultural validity and reliability testing of a standard psychiatric assessment instrument without a gold standard. [*Journal of Nervous and Mental Disorders, 189*](https://www.ncbi.nlm.nih.gov/pubmed/11339319), 238-42.
+* Kohrt et al. (2011). Validation of cross-cultural child mental health and psychosocial research instruments: adapting the Depression Self-Rating Scale and Child PTSD Symptom Scale in Nepal. [*BMC Psychiatry, 11(1)*](https://www.ncbi.nlm.nih.gov/pubmed/21816045), 1-17.
+
+<br>
+[[return to schedule overview](#ds)]
+<br>
+
+***
+
+## <a name="class6" style="color:#F09905">6. Intervention approaches and cultural adaptation</a>
+
+<!--
+*In this session*
+-->
+
+* Hanlon, C., Fekadu, A., & Patel, V. (2013). Interventions for mental disorders. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 12: pp. 252-276).
+* Kakuma, R., Minas, H., & Dal Poz, M.R. (2013). Strategies for strengthening human resources for mental health. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 10: pp. 193-223).
+* Maes, K. (2015). Task-shifting in global health: Mental health implications for community health workers and volunteers. In Kohrt & Mendenhall (Eds.) *Global Mental Health: Anthropological Perspectives* (Ch. 17: pp. 291-308).
+* Bernal, G., Jiménez-Chafey, M. I., & Domenech Rodríguez, M. M. (2009). Cultural adaptation of treatments: A resource for considering culture in evidence-based practice. [*Professional Psychology: Research and Practice, 40(4)*](http://psycnet.apa.org/record/2009-11890-009), 361-368.
+* (skim) WHO (2016). [*mhGAP Intervention Guide: Version 2.0.*](http://www.who.int/mental_health/mhgap/mhGAP_intervention_guide_02/en/)
+
+
+<br>
+[[return to schedule overview](#ds)]
+<br>
+
+***
+
+## <a name="class7" style="color:#F09905">7. Depression and suicide</a>
+
+<!--
+*In this session*
+-->
+
+* Bolton, P., Bass, J., Neugebauer, R., Verdeli, H., Clougherty, K. F., Wickramaratne, P., ... & Weissman, M. (2003). Group interpersonal psychotherapy for depression in rural Uganda. [*JAMA, 289(23)*](https://www.ncbi.nlm.nih.gov/pubmed/12813117), 3117-3124.
+* Rahman, A., Malik, A., Sikander, S., Roberts, C., & Creed, F. (2008). Cognitive behaviour therapy-based intervention by community health workers for mothers with depression and their infants in rural Pakistan: a cluster-randomised controlled trial. [*The Lancet, 372(9642)*](https://www.sciencedirect.com/science/article/pii/S0140673608614002), 902-909.
+* Green, E. (2018). [*Most people who suffer from depression don't get help*](https://uxplanet.org/healthymoms-36975a4b8c1b).
+* Hagaman, A. K., Khadka, S., Lohani, S., & Kohrt, B. (2017). Suicide in Nepal: a modified psychological autopsy investigation from randomly selected police cases between 2013 and 2015. [*Social Psychiatry and Psychiatric Epidemiology, 52(12)*](https://www.ncbi.nlm.nih.gov/pubmed/28856382), 1483-1494.
+
+<br>
+[[return to schedule overview](#ds)]
+<br>
+
+***
+
+## <a name="class8" style="color:#F09905">8. Child and adolescent mental health</a>
+
+<!--
+*In this session*
+-->
+
+* Kieling, C., Graeff-Martins, A.S., Hamoda, H., & Rohde, L.A. (2014). Child and adolescent mental health. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 15: pp. 335-350).
+* Barry, M. M., Clarke, A. M., Jenkins, R., & Patel, V. (2013). A systematic review of the effectiveness of mental health promotion interventions for young people in low and middle income countries. [*BMC Public Health, 13(1)*](https://www.ncbi.nlm.nih.gov/pubmed/24025155), 1-19.
+* Puffer, E. S., Green, E. P., Chase, R. M., Sim, A. L., Zayzay, J., Friis, E…& Boone, L. (2015). Parents make the difference: a randomized-controlled trial of a parenting intervention in Liberia. [*Global Mental Health, 2, e15*](https://www.ncbi.nlm.nih.gov/pubmed/28596863).
+
+
+<br>
+[[return to schedule overview](#ds)]
+<br>
+
+***
+
+## <a name="class9" style="color:#F09905">9. Mental health in humanitarian settings</a>
+
+<!--
+*In this session*
+-->
+
+* Tol et al. (2014). Mental health and psychosocial support in humanitarian settings. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 17: pp. 384-400).
+* Bass, J. K., Annan, J., McIvor Murray, S., Kaysen, D., Griffiths, S., Cetinoglu, T., ... & Bolton, P. A. (2013). Controlled trial of psychotherapy for Congolese survivors of sexual violence. [*New England Journal of Medicine, 368(23)*](https://www.nejm.org/doi/full/10.1056/nejmoa1211853), 2182-2191.
+* El-Shaarawi, N. (2015). Life in transit: Mental health, temporality, and urban displacement for Iraqi refugees. In Kohrt & Mendenhall (Eds.) *Global Mental Health: Anthropological Perspectives* (Ch. 4).
+
+<br>
+[[return to schedule overview](#ds)]
+<br>
+
+***
+
+## <a name="class10" style="color:#F09905">10. Grand challenges and innovation</a>
+
+<!--
+*In this session*
+-->
+
+* Collins, P. Y., Patel, V., Joestl, S. S., March, D., Insel, T. R., Daar, A. S., ... & Glass, R. I. (2011). Grand challenges in global mental health. [*Nature, 475(7354)*](https://www.nature.com/articles/475027a), 27.
+* [Mental Health Innovation Network](http://www.mhinnovation.net/)
+
+
+<br>
+[[return to schedule overview](#ds)]
+<br>
+<br>
+
+
+# ABOUT THIS SYLLABUS
+
+This syllabus is based on previous iterations of the course taught by [Brandon Kohrt](https://www.gwdocs.com/physicians/brandon-kohrt), [Bonnie Kaiser](https://www.linkedin.com/in/bonnie-kaiser-2263719b/), and [Eve Puffer](https://globalhealth.duke.edu/people/faculty/puffer-eve). I'm responsible for all bad ideas and mistakes. I will announce any changes to this plan.
