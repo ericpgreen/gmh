@@ -1,5 +1,4 @@
 ---
-title: "Global Mental Health"
 output:
   html_document:
     toc_float: false
@@ -12,7 +11,7 @@ output:
   library(magrittr)
   library(tidyverse)
 ```
-
+<br>
 ![](img/cover.jpg)
 
 <center>
