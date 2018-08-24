@@ -22,12 +22,14 @@ output:
                                 "Course Number",
                                 "Day/Time",
                                 "Location",
-                                "Office Hours"),
+                                "Office Hours",
+                                "Piazza"),
                          Topic=c("[Eric Green](http://ericpgreen.com)",
                                  "GLHLTH 660 / PSY 611 / RIGHTS 660 / CULANTH 611",
                                  "Tuesdays, 3:05-5:35pm",
                                  "Trent Hall 142",
-                                 "By appointment"))
+                                 "By appointment",
+                                 "[link](https://piazza.com/duke/fall2018/glhlth660/home)"))
   kable(details) %>%
     kable_styling(bootstrap_options = c("striped", "hover", 
                                         "condensed", "responsive"),
