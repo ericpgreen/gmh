@@ -161,9 +161,9 @@ Ranges for letter grades will be set at the end of the semester, and grades may 
 -->
 
 * Kirmayer, L.J. & Swartz, L. (2013). Culture and global mental health. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 3: pp. 41-62).
-* Blanc, J., Rahill, G. J., Laconi, S., & Mouchenik, Y. (2016). Religious beliefs, PTSD, depression and resilience in survivors of the 2010 Haiti earthquake. [*Journal of Affective Disorders, 190*](https://www.ncbi.nlm.nih.gov/pubmed/26600411), 697-703.
 * Lund, C., Brooke-Sumner, C., Baingana, F., Baron, E. C., Breuer, E., Chandra, P., ... & Medina-Mora, M. E. (2018). Social determinants of mental disorders and the Sustainable Development Goals: a systematic review of reviews. [*The Lancet Psychiatry, 5(4)*](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(18)30060-9/abstract), 357-369.
 * Wutich, A., Brewis, A., Rosales Chavez, J.B., & Jaiswal, C.L. (2015). Water, worry, and Dona Paloma: Why water security is fundamental to global mental health. In Kohrt & Mendenhall (Eds.) *Global Mental Health: Anthropological Perspectives* (Ch. 3).
+* Dyregrov, A., Gupta, L., Gjestad, R., & Raundalen, M. (2002). Is the culture always right?. [*Traumatology, 8(3)*](http://journals.sagepub.com/doi/abs/10.1177/153476560200800302), 135-145.
 
 
 <br>
@@ -197,7 +197,7 @@ Ranges for letter grades will be set at the end of the semester, and grades may 
 * Hanlon, C., Fekadu, A., & Patel, V. (2013). Interventions for mental disorders. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 12: pp. 252-276).
 * Kakuma, R., Minas, H., & Dal Poz, M.R. (2013). Strategies for strengthening human resources for mental health. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 10: pp. 193-223).
 * Maes, K. (2015). Task-shifting in global health: Mental health implications for community health workers and volunteers. In Kohrt & Mendenhall (Eds.) *Global Mental Health: Anthropological Perspectives* (Ch. 17: pp. 291-308).
-* Bernal, G., Jiménez-Chafey, M. I., & Domenech Rodríguez, M. M. (2009). Cultural adaptation of treatments: A resource for considering culture in evidence-based practice. [*Professional Psychology: Research and Practice, 40(4)*](http://psycnet.apa.org/record/2009-11890-009), 361-368.
+* Lau, A. S. (2006). Making the case for selective and directed cultural adaptations of evidence‐based treatments: examples from parent training. [*Clinical Psychology: Science and Practice, 13(4)*](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2850.2006.00042.x), 295-310.
 * (skim) WHO (2016). [*mhGAP Intervention Guide: Version 2.0.*](http://www.who.int/mental_health/mhgap/mhGAP_intervention_guide_02/en/)
 
 
@@ -231,7 +231,7 @@ Ranges for letter grades will be set at the end of the semester, and grades may 
 -->
 
 * Kieling, C., Graeff-Martins, A.S., Hamoda, H., & Rohde, L.A. (2014). Child and adolescent mental health. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 15: pp. 335-350).
-* Barry, M. M., Clarke, A. M., Jenkins, R., & Patel, V. (2013). A systematic review of the effectiveness of mental health promotion interventions for young people in low and middle income countries. [*BMC Public Health, 13(1)*](https://www.ncbi.nlm.nih.gov/pubmed/24025155), 1-19.
+* Klasen, H., & Crombag, A. C. (2013). What works where? A systematic review of child and adolescent mental health interventions for low- and middle-income countries. [*Social Psychiatry and Psychiatric Epidemiology, 48(4)*](https://link.springer.com/article/10.1007/s00127-012-0566-x), 595-611.
 * Puffer, E. S., Green, E. P., Chase, R. M., Sim, A. L., Zayzay, J., Friis, E…& Boone, L. (2015). Parents make the difference: a randomized-controlled trial of a parenting intervention in Liberia. [*Global Mental Health, 2, e15*](https://www.ncbi.nlm.nih.gov/pubmed/28596863).
 
 
