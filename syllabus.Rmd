@@ -81,8 +81,9 @@ Ranges for letter grades will be set at the end of the semester, and grades may 
                          Topic=c("Welcome",
                                  "[1. State of the field](#class1)",
                                  "[2. Psychiatric categories and diagnoses](#class2)",
-                                 "[3. Burden of disease](#class3)",
-                                 "[4. Culture, context, and social determinants of mental illness](#class4)",
+                                 
+                                 "[3. Culture, context, and social determinants of mental illness](#class3)",
+                                 "[4. Burden of disease](#class4)",
                                  "[5. Measurement](#class5)",
                                  "Fall Break",
                                  "Midterm presentations",
@@ -142,23 +143,7 @@ Ranges for letter grades will be set at the end of the semester, and grades may 
 
 ***
 
-## <a name="class3" style="color:#F09905">3. Burden of disease</a>
-
-<!--
-*In this session*
--->
-
-* Prince, M., et al. (2007). No health without mental health. [*The Lancet, 370*](https://www.sciencedirect.com/science/article/pii/S0140673607612380), 859-77.
-* Vigo, D., Thornicroft, G., & Atun, R. (2016). Estimating the true global burden of mental illness. [*The Lancet Psychiatry, 3(2)*](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(15)00505-2/fulltext), 171-178.
-
-
-<br>
-[[return to schedule overview](#ds)]
-<br>
-
-***
-
-## <a name="class4" style="color:#F09905">4. Culture, context, and social determinants of mental illness</a>
+## <a name="class3" style="color:#F09905">3. Culture, context, and social determinants of mental illness</a>
 
 <!--
 *In this session*
@@ -168,6 +153,22 @@ Ranges for letter grades will be set at the end of the semester, and grades may 
 * Lund, C., Brooke-Sumner, C., Baingana, F., Baron, E. C., Breuer, E., Chandra, P., ... & Medina-Mora, M. E. (2018). Social determinants of mental disorders and the Sustainable Development Goals: a systematic review of reviews. [*The Lancet Psychiatry, 5(4)*](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(18)30060-9/abstract), 357-369.
 * Wutich, A., Brewis, A., Rosales Chavez, J.B., & Jaiswal, C.L. (2015). Water, worry, and Dona Paloma: Why water security is fundamental to global mental health. In Kohrt & Mendenhall (Eds.) *Global Mental Health: Anthropological Perspectives* (Ch. 3).
 * Dyregrov, A., Gupta, L., Gjestad, R., & Raundalen, M. (2002). Is the culture always right?. [*Traumatology, 8(3)*](http://journals.sagepub.com/doi/abs/10.1177/153476560200800302), 135-145.
+
+
+<br>
+[[return to schedule overview](#ds)]
+<br>
+
+***
+
+## <a name="class4" style="color:#F09905">4. Burden of disease</a>
+
+<!--
+*In this session*
+-->
+
+* Prince, M., et al. (2007). No health without mental health. [*The Lancet, 370*](https://www.sciencedirect.com/science/article/pii/S0140673607612380), 859-77.
+* Vigo, D., Thornicroft, G., & Atun, R. (2016). Estimating the true global burden of mental illness. [*The Lancet Psychiatry, 3(2)*](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(15)00505-2/fulltext), 171-178.
 
 
 <br>
