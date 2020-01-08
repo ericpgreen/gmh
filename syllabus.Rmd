@@ -15,7 +15,7 @@ output:
 ```
 
 
-<h2> Duke University, Fall 2018 </h2>
+<h2> Duke University, Spring 2020 </h2>
 
 ```{r, echo=FALSE}
   details <- data.frame(Date=c("Instructor",
@@ -26,10 +26,10 @@ output:
                                 "Piazza"),
                          Topic=c("[Eric Green](http://ericpgreen.com)",
                                  "GLHLTH 660 / PSY 611 / RIGHTS 660 / CULANTH 611",
-                                 "Tuesdays, 3:05-5:35pm",
-                                 "Trent Hall 142",
+                                 "Thursdays, 1:25-3:55pm",
+                                 "Trent Hall 039A",
                                  "By appointment",
-                                 "[link](https://piazza.com/duke/fall2018/glhlth660/home)"))
+                                 "[link](https://piazza.com/duke/spring2020/glhlth660/home)"))
   kable(details) %>%
     kable_styling(bootstrap_options = c("striped", "hover", 
                                         "condensed", "responsive"),
@@ -59,25 +59,25 @@ Your grade for each assignment will consist of the following:
 2. An individual score that reflects my assessment of your preparation for class and team work (this includes showing up for class) [20%]
 3. An individual score from your teammates that reflects the team's assessment of your contributions [30%]
 
-Ranges for letter grades will be set at the end of the semester, and grades may be curved. Cumulative scores of at least 90, 80, and 70 will be guaranteed at least an A-, B-, and C-, respectively. There is no final exam, but you must be present for both presentations to receive full credit.
+Ranges for letter grades will be set at the end of the semester. Cumulative scores of at least 90, 80, and 70 will be guaranteed at least an A-, B-, and C-, respectively. There is no final exam, but you must be present for both presentations to receive full credit.
 
 # <a name="ds" style="color:#003366">SCHEDULE OVERVIEW</a>
 
 ```{r, echo=FALSE}
-  schedule <- data.frame(Date=c("Aug 28",
-                                "Sept 4",
-                                "Sept 11",
-                                "Sept 18",
-                                "Sept 25",
-                                "Oct 2",
-                                "Oct 9",
-                                "Oct 16",
-                                "Oct 23",
-                                "Oct 30",
-                                "Nov 6",
-                                "Nov 13",
-                                "Nov 20",
-                                "Nov 27"),
+  schedule <- data.frame(Date=c("Jan 9",
+                                "Jan 12",
+                                "Jan 19",
+                                "Jan 26",
+                                "Feb 2",
+                                "Feb 13",
+                                "Feb 20",
+                                "Feb 27",
+                                "Mar 6",
+                                "Mar 12",
+                                "Mar 20",
+                                "Mar 27",
+                                "Apr 2",
+                                "Apr 9"),
                          Topic=c("Welcome",
                                  "[1. State of the field](#class1)",
                                  "[2. Psychiatric categories and diagnoses](#class2)",
@@ -85,10 +85,10 @@ Ranges for letter grades will be set at the end of the semester, and grades may 
                                  "[3. Culture, context, and social determinants of mental illness](#class3)",
                                  "[4. Burden of disease](#class4)",
                                  "[5. Measurement](#class5)",
-                                 "Fall Break",
                                  "Midterm presentations",
                                  "[6. Intervention approaches and cultural adaptation](#class6)",
                                  "[7. Depression and suicide](#class7)",
+                                 "Spring Break",
                                  "[8. Child and adolescent mental health](#class8)",
                                  "[9. Mental health in humanitarian settings](#class9)",
                                  "[10. Grand challenges and innovation](#class10)",
@@ -98,8 +98,8 @@ Ranges for letter grades will be set at the end of the semester, and grades may 
                                         "condensed", "responsive"),
                   font_size=15) %>%
     row_spec(0, bold = TRUE, color = "white", background = "#003366") %>%
-    row_spec(7, bold = TRUE, color = "white", background = "#A1B70D") %>%
-    row_spec(8, bold = TRUE, color = "white", background = "#F09905") %>%
+    row_spec(10, bold = TRUE, color = "white", background = "#A1B70D") %>%
+    row_spec(7, bold = TRUE, color = "white", background = "#F09905") %>%
     row_spec(14, bold = TRUE, color = "white", background = "#F09905")
     
 ```
@@ -220,7 +220,6 @@ Ranges for letter grades will be set at the end of the semester, and grades may 
 
 * Bolton, P., Bass, J., Neugebauer, R., Verdeli, H., Clougherty, K. F., Wickramaratne, P., ... & Weissman, M. (2003). Group interpersonal psychotherapy for depression in rural Uganda. [*JAMA, 289(23)*](https://www.ncbi.nlm.nih.gov/pubmed/12813117), 3117-3124.
 * Rahman, A., Malik, A., Sikander, S., Roberts, C., & Creed, F. (2008). Cognitive behaviour therapy-based intervention by community health workers for mothers with depression and their infants in rural Pakistan: a cluster-randomised controlled trial. [*The Lancet, 372(9642)*](https://www.sciencedirect.com/science/article/pii/S0140673608614002), 902-909.
-* Green, E. (2018). [*Most people who suffer from depression don't get help*](https://uxplanet.org/healthymoms-36975a4b8c1b).
 * Hagaman, A. K., Khadka, S., Lohani, S., & Kohrt, B. (2017). Suicide in Nepal: a modified psychological autopsy investigation from randomly selected police cases between 2013 and 2015. [*Social Psychiatry and Psychiatric Epidemiology, 52(12)*](https://www.ncbi.nlm.nih.gov/pubmed/28856382), 1483-1494.
 
 <br>
@@ -270,6 +269,7 @@ Ranges for letter grades will be set at the end of the semester, and grades may 
 
 * Collins, P. Y., Patel, V., Joestl, S. S., March, D., Insel, T. R., Daar, A. S., ... & Glass, R. I. (2011). Grand challenges in global mental health. [*Nature, 475(7354)*](https://www.nature.com/articles/475027a), 27.
 * [Mental Health Innovation Network](http://www.mhinnovation.net/)
+* Eric to add new pre-print
 
 
 <br>
