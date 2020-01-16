@@ -65,17 +65,17 @@ Ranges for letter grades will be set at the end of the semester. Cumulative scor
 
 ```{r, echo=FALSE}
   schedule <- data.frame(Date=c("Jan 9",
-                                "Jan 12",
-                                "Jan 19",
-                                "Jan 26",
-                                "Feb 2",
+                                "Jan 16",
+                                "Jan 23",
+                                "Jan 30",
+                                "Feb 6",
                                 "Feb 13",
                                 "Feb 20",
                                 "Feb 27",
-                                "Mar 6",
+                                "Mar 5",
                                 "Mar 12",
-                                "Mar 20",
-                                "Mar 27",
+                                "Mar 19",
+                                "Mar 26",
                                 "Apr 2",
                                 "Apr 9"),
                          Topic=c("Welcome",
@@ -87,7 +87,7 @@ Ranges for letter grades will be set at the end of the semester. Cumulative scor
                                  "[5. Measurement](#class5)",
                                  "Midterm presentations",
                                  "[6. Intervention approaches and cultural adaptation](#class6)",
-                                 "[7. Depression and suicide](#class7)",
+                                 "[7. Perinatal depression](#class7)",
                                  "Spring Break",
                                  "[8. Child and adolescent mental health](#class8)",
                                  "[9. Mental health in humanitarian settings](#class9)",
@@ -117,6 +117,7 @@ Ranges for letter grades will be set at the end of the semester. Cumulative scor
 
 * Kleinman, A. (2009). The art of medicine. Global mental health: a failure of humanity. [*The Lancet, 374*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61510-5/fulltext?code=lancet-site), 603-4.
 * Becker, A.E., & Kleinman, A. (2013). Mental health and the global agenda. [*New England Journal of Medicine, 369(1)*](https://www.ncbi.nlm.nih.gov/pubmed/23822778), 66-73.
+* Patel, V., Saxena, S., Lund, C., Thornicroft, G., Baingana, F., Bolton, P., ... & Herrman, H. (2018). The Lancet Commission on global mental health and sustainable development. [*The Lancet, 392(10157)*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31612-X/fulltext), 1553-1598.
 * Cohen, A., Patel, V., & Minas, H. (2013). A brief history of global mental health. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 1: pp. 3-26).
 * Vikram Patel TED Talk: http://www.ted.com/speakers/vikram_patel.html  
 
@@ -136,6 +137,7 @@ Ranges for letter grades will be set at the end of the semester. Cumulative scor
 * Jacob, K. S., & Patel, V. (2014). Classification of mental disorders: a global mental health perspective. [*The Lancet, 383(9926)*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)62382-X/fulltext?code=lancet-site), 1433-1435.
 * Watters, E. (2010, January 8). The Americanization of Mental Illness. [*New York Times*](https://www.nytimes.com/2010/01/10/magazine/10psyche-t.html)
 * Friedman, J.R. (2015). Who belongs in a psychiatric hospital? Post-socialist Romania in the age of globalizing psychiatry. In Kohrt & Mendenhall (Eds.) *Global Mental Health: Anthropological Perspectives* (Ch. 11).
+* Haroz, E. E., Ritchey, M., Bass, J. K., Kohrt, B. A., Augustinavicius, J., Michalopoulos, L., ... & Bolton, P. (2017). How is depression experienced around the world? A systematic review of qualitative literature. [*Social Science & Medicine, 183*, 151-162](https://www.sciencedirect.com/science/article/pii/S0277953616307109).
 
 <br>
 [[return to schedule overview](#ds)]
@@ -169,6 +171,7 @@ Ranges for letter grades will be set at the end of the semester. Cumulative scor
 
 * Prince, M., et al. (2007). No health without mental health. [*The Lancet, 370*](https://www.sciencedirect.com/science/article/pii/S0140673607612380), 859-77.
 * Vigo, D., Thornicroft, G., & Atun, R. (2016). Estimating the true global burden of mental illness. [*The Lancet Psychiatry, 3(2)*](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(15)00505-2/fulltext), 171-178.
+* Bauer, A., Knapp, M., & Parsonage, M. (2016). Lifetime costs of perinatal anxiety and depression. [*Journal of Affective Disorders, 192*](https://www.sciencedirect.com/science/article/pii/S0165032715309113), 83-90.
 
 
 <br>
@@ -186,6 +189,7 @@ Ranges for letter grades will be set at the end of the semester. Cumulative scor
 * Green, E. P., Tuli, H., Kwobah, E., Menya, D., Chesire, I., & Schmidt, C. (2018). Developing and validating a perinatal depression screening tool in Kenya blending Western criteria with local idioms: A mixed methods study. [*Journal of Affective Disorders, 228*](https://www.ncbi.nlm.nih.gov/pubmed/29227955), 49-59.
 * Bolton, P. (2001). Cross-cultural validity and reliability testing of a standard psychiatric assessment instrument without a gold standard. [*Journal of Nervous and Mental Disorders, 189*](https://www.ncbi.nlm.nih.gov/pubmed/11339319), 238-42.
 * Kohrt et al. (2011). Validation of cross-cultural child mental health and psychosocial research instruments: adapting the Depression Self-Rating Scale and Child PTSD Symptom Scale in Nepal. [*BMC Psychiatry, 11(1)*](https://www.ncbi.nlm.nih.gov/pubmed/21816045), 1-17.
+Sweetland, A. C., Belkin, G. S., & Verdeli, H. (2014). Measuring depression and anxiety in sub‐saharan Africa. [*Depression and Anxiety, 31(3)*](https://onlinelibrary.wiley.com/doi/full/10.1002/da.22142), 223-232.
 
 <br>
 [[return to schedule overview](#ds)]
@@ -200,8 +204,10 @@ Ranges for letter grades will be set at the end of the semester. Cumulative scor
 -->
 
 * Hanlon, C., Fekadu, A., & Patel, V. (2013). Interventions for mental disorders. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 12: pp. 252-276).
-* Kakuma, R., Minas, H., & Dal Poz, M.R. (2013). Strategies for strengthening human resources for mental health. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 10: pp. 193-223).
-* Maes, K. (2015). Task-shifting in global health: Mental health implications for community health workers and volunteers. In Kohrt & Mendenhall (Eds.) *Global Mental Health: Anthropological Perspectives* (Ch. 17: pp. 291-308).
+* Singla, D. R., Kohrt, B. A., Murray, L. K., Anand, A., Chorpita, B. F., & Patel, V. (2017). Psychological treatments for the world: lessons from low-and middle-income countries. [*Annual Review of Clinical Psychology, 13*](https://www.annualreviews.org/doi/10.1146/annurev-clinpsy-032816-045217), 149-181.
+* Singla, D. R., Raviola, G., & Patel, V. (2018). Scaling up psychological treatments for common mental disorders: a call to action. [*World Psychiatry, 17(2)*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5980618/), 226–227. doi:10.1002/wps.20532
+* Patel, V., Weobong, B., Weiss, H. A., Anand, A., Bhat, B., Katti, B., ... & Vijayakumar, L. (2017). The Healthy Activity Program (HAP), a lay counsellor-delivered brief psychological treatment for severe depression, in primary care in India: a randomised controlled trial. [*The Lancet, 389(10065)*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31589-6/fulltext), 176-185.
+* Bolton, P., Bass, J., Neugebauer, R., Verdeli, H., Clougherty, K. F., Wickramaratne, P., ... & Weissman, M. (2003). Group interpersonal psychotherapy for depression in rural Uganda. [*JAMA, 289(23)*](https://www.ncbi.nlm.nih.gov/pubmed/12813117), 3117-3124.
 * Lau, A. S. (2006). Making the case for selective and directed cultural adaptations of evidence‐based treatments: examples from parent training. [*Clinical Psychology: Science and Practice, 13(4)*](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2850.2006.00042.x), 295-310.
 * (skim) WHO (2016). [*mhGAP Intervention Guide: Version 2.0.*](http://www.who.int/mental_health/mhgap/mhGAP_intervention_guide_02/en/)
 
@@ -212,15 +218,17 @@ Ranges for letter grades will be set at the end of the semester. Cumulative scor
 
 ***
 
-## <a name="class7" style="color:#F09905">7. Depression and suicide</a>
+## <a name="class7" style="color:#F09905">7. Perinatal depression</a>
 
 <!--
 *In this session*
 -->
 
-* Bolton, P., Bass, J., Neugebauer, R., Verdeli, H., Clougherty, K. F., Wickramaratne, P., ... & Weissman, M. (2003). Group interpersonal psychotherapy for depression in rural Uganda. [*JAMA, 289(23)*](https://www.ncbi.nlm.nih.gov/pubmed/12813117), 3117-3124.
+* Belluck, P. (2014, June 16). After baby, an unraveling. [New York Times](https://www.nytimes.com/2014/06/17/health/maternal-mental-illness-can-arrive-months-after-baby.html).
+* [Thinking Healthy Manual](http://www.who.int/mental_health/maternal-child/thinking%20healthy/en/)
 * Rahman, A., Malik, A., Sikander, S., Roberts, C., & Creed, F. (2008). Cognitive behaviour therapy-based intervention by community health workers for mothers with depression and their infants in rural Pakistan: a cluster-randomised controlled trial. [*The Lancet, 372(9642)*](https://www.sciencedirect.com/science/article/pii/S0140673608614002), 902-909.
-* Hagaman, A. K., Khadka, S., Lohani, S., & Kohrt, B. (2017). Suicide in Nepal: a modified psychological autopsy investigation from randomly selected police cases between 2013 and 2015. [*Social Psychiatry and Psychiatric Epidemiology, 52(12)*](https://www.ncbi.nlm.nih.gov/pubmed/28856382), 1483-1494.
+* Fuhr, D. C., Weobong, B., Lazarus, A., Vanobberghen, F., Weiss, H. A., Singla, D. R., ... & Joshi, A. (2019). Delivering the Thinking Healthy Programme for perinatal depression through peers: an individually randomised controlled trial in India. [*The Lancet Psychiatry, 6(2)*](https://www.sciencedirect.com/science/article/pii/S2215036618304668), 115-127.
+* Maselko, J., Sikander, S., Bhalotra, S., Bangash, O., Ganga, N., Mukherjee, S., ... & Kanwal, M. (2015). Effect of an early perinatal depression intervention on long-term child development outcomes: follow-up of the Thinking Healthy Programme randomised controlled trial. [*The Lancet Psychiatry, 2(7)*](https://www.ncbi.nlm.nih.gov/pubmed/26303558), 609-617.
 
 <br>
 [[return to schedule overview](#ds)]
@@ -236,7 +244,9 @@ Ranges for letter grades will be set at the end of the semester. Cumulative scor
 
 * Kieling, C., Graeff-Martins, A.S., Hamoda, H., & Rohde, L.A. (2014). Child and adolescent mental health. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 15: pp. 335-350).
 * Klasen, H., & Crombag, A. C. (2013). What works where? A systematic review of child and adolescent mental health interventions for low- and middle-income countries. [*Social Psychiatry and Psychiatric Epidemiology, 48(4)*](https://link.springer.com/article/10.1007/s00127-012-0566-x), 595-611.
-* Puffer, E. S., Green, E. P., Chase, R. M., Sim, A. L., Zayzay, J., Friis, E…& Boone, L. (2015). Parents make the difference: a randomized-controlled trial of a parenting intervention in Liberia. [*Global Mental Health, 2, e15*](https://www.ncbi.nlm.nih.gov/pubmed/28596863).
+* Burkey, M. D., Hosein, M., Morton, I., Purgato, M., Adi, A., Kurzrok, M., ... & Tol, W. A. (2018). Psychosocial interventions for disruptive behaviour problems in children in low‐and middle‐income countries: a systematic review and meta‐analysis. [*Journal of Child Psychology and Psychiatry, 59(9)*](https://onlinelibrary.wiley.com/doi/full/10.1111/jcpp.12894), 982-993.
+* Boivin, M. J., Kakooza, A. M., Warf, B. C., Davidson, L. L., & Grigorenko, E. L. (2015). Reducing neurodevelopmental disorders and disability through research and interventions. [*Nature, 527(7578)*](https://www.nature.com/articles/nature16029), S155.
+* Puffer, E. S., Annan, J., Sim, A. L., Salhi, C., & Betancourt, T. S. (2017). The impact of a family skills training intervention among Burmese migrant families in Thailand: a randomized controlled trial. [*PLoS One, 12(3), e0172611*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0172611).
 
 
 <br>
@@ -252,6 +262,7 @@ Ranges for letter grades will be set at the end of the semester. Cumulative scor
 -->
 
 * Tol et al. (2014). Mental health and psychosocial support in humanitarian settings. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 17: pp. 384-400).
+* Charlson, F., van Ommeren, M., Flaxman, A., Cornett, J., Whiteford, H., & Saxena, S. (2019). New WHO prevalence estimates of mental disorders in conflict settings: a systematic review and meta-analysis. [*The Lancet, 394(10194)*, 240-248](https://www.sciencedirect.com/science/article/pii/S0140673619309341).
 * Bass, J. K., Annan, J., McIvor Murray, S., Kaysen, D., Griffiths, S., Cetinoglu, T., ... & Bolton, P. A. (2013). Controlled trial of psychotherapy for Congolese survivors of sexual violence. [*New England Journal of Medicine, 368(23)*](https://www.nejm.org/doi/full/10.1056/nejmoa1211853), 2182-2191.
 * El-Shaarawi, N. (2015). Life in transit: Mental health, temporality, and urban displacement for Iraqi refugees. In Kohrt & Mendenhall (Eds.) *Global Mental Health: Anthropological Perspectives* (Ch. 4).
 
