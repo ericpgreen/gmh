@@ -116,6 +116,7 @@ Ranges for letter grades will be set at the end of the semester. Cumulative scor
 -->
 
 * Kleinman, A. (2009). The art of medicine. Global mental health: a failure of humanity. [*The Lancet, 374*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61510-5/fulltext?code=lancet-site), 603-4.
+* Patel, V., & Farmer, P. E. (2020). The moral case for global mental health delivery. [*The Lancet, 395(10218)*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)33149-6), 108-109.
 * Becker, A.E., & Kleinman, A. (2013). Mental health and the global agenda. [*New England Journal of Medicine, 369(1)*](https://www.ncbi.nlm.nih.gov/pubmed/23822778), 66-73.
 * Patel, V., Saxena, S., Lund, C., Thornicroft, G., Baingana, F., Bolton, P., ... & Herrman, H. (2018). The Lancet Commission on global mental health and sustainable development. [*The Lancet, 392(10157)*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31612-X/fulltext), 1553-1598.
 * Cohen, A., Patel, V., & Minas, H. (2013). A brief history of global mental health. In Patel et al. (Ed.) [*Global Mental Health: Principles and Practice*](https://ebookcentral.proquest.com/lib/duke/reader.action?ppg=1&docID=1481006&tm=1534967689948) (Ch. 1: pp. 3-26).
@@ -210,6 +211,7 @@ Sweetland, A. C., Belkin, G. S., & Verdeli, H. (2014). Measuring depression and 
 * Bolton, P., Bass, J., Neugebauer, R., Verdeli, H., Clougherty, K. F., Wickramaratne, P., ... & Weissman, M. (2003). Group interpersonal psychotherapy for depression in rural Uganda. [*JAMA, 289(23)*](https://www.ncbi.nlm.nih.gov/pubmed/12813117), 3117-3124.
 * Lau, A. S. (2006). Making the case for selective and directed cultural adaptations of evidence‐based treatments: examples from parent training. [*Clinical Psychology: Science and Practice, 13(4)*](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2850.2006.00042.x), 295-310.
 * (skim) WHO (2016). [*mhGAP Intervention Guide: Version 2.0.*](http://www.who.int/mental_health/mhgap/mhGAP_intervention_guide_02/en/)
+* (skim) Stirman, S. W., Baumann, A. A., & Miller, C. J. (2019). The FRAME: an expanded framework for reporting adaptations and modifications to evidence-based interventions. [*Implementation Science, 14(1)*](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-019-0898-y), 58.
 
 
 <br>
